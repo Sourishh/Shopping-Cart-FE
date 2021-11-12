@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/20945836/141425481-ddb47ff1-7597-46f7-97c3-c8272a8f6c1e.png)
 
 
-Backend intgegration code is uploaded @ Shopping-Cart-BE
+Backend intgegration code is required for the FE code to work. Only the urls can be changed and BE code can be integrated
 
 If you like my work you can support me. <a href="https://www.buymeacoffee.com/sourishB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
