@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+![image](https://user-images.githubusercontent.com/20945836/141425387-1811f88e-e0de-4af6-9d17-e2b0db7c6df8.png)
+![image](https://user-images.githubusercontent.com/20945836/141425481-ddb47ff1-7597-46f7-97c3-c8272a8f6c1e.png)
+
+
+Backend intgegration code is uploaded @ Shopping-Cart-BE
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -32,16 +39,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-
-![image](https://user-images.githubusercontent.com/20945836/141425387-1811f88e-e0de-4af6-9d17-e2b0db7c6df8.png)
-![image](https://user-images.githubusercontent.com/20945836/141425481-ddb47ff1-7597-46f7-97c3-c8272a8f6c1e.png)
-
-
-Backend intgegration code is uploaded @ Shopping-Cart-BE
-
-
-
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
