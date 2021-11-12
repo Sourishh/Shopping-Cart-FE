@@ -1,0 +1,22 @@
+.products {
+  width: 100%;
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 500px) {
+  
+  .products {
+    display: block;
+  }
+}
+
+.hometext {
+  color: blue;
+}
+
+.producttext {
+  color: darkorange;
+}
